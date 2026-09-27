@@ -175,6 +175,12 @@ ul.services-list{
 h2{
     font-size: 2em; 
 }
+.heddy{
+    text-align: center;
+    margin-left: 3em;
+    font-size: 50%;
+
+}
 
 label{
     display: block;
@@ -396,8 +402,8 @@ nav{
         display: block;
         position: absolute;
         right: 0;
-        width: 350px;
-        bottom: -2em;
+        width: 400px;
+        bottom: -3em;
     }
 
     .testimonials-section ul{
@@ -429,6 +435,7 @@ nav{
         }
     }
 }
+
 
 footer{ padding:5px 0 10px; border-top: 1px solid var(--text-dark); border-bottom: 1px solid var(--text-dark);}
   .foot-grid{ display:grid; grid-template-columns:1fr 1fr 1fr; gap:1px; margin-bottom:3px; }

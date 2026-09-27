@@ -6,6 +6,10 @@
   --bg-warm:#F2F2F2;
   --text-dark:#1E293B;
 }
+.Whyus{
+  text-align: center;
+
+}
 
 html {
   scroll-behavior: smooth;
@@ -257,6 +261,7 @@ nav li a:hover {
     background: var(--blue);
     color: white;
   }
+
 }
 @media only screen and (min-width: 1080px) {
   .container {
